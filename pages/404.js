@@ -1,5 +1,5 @@
 import {MainLayout} from '../components/MainLayout'
-import style from '../styles/error.module.css'
+import style from '../styles/error.module.scss'
 
 export default function NotFound () {
     return (
